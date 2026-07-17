@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "macos-chat-fixes",
   "version": "${version}",
-  "name": "macos-chat-fixes",
+  "name": "macOS Chat Fixes",
   "description": "Fixes Minecraft's text fields to use native macOS keyboard shortcuts, i.e. Command+Arrow jumps to line start/end, Option+Arrow jumps by word, etc.",
   "authors": [
     {
