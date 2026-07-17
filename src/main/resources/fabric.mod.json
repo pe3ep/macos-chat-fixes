@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "macos-chat-fixes",
+  "version": "${version}",
+  "name": "macos-chat-fixes",
+  "description": "",
+  "authors": [
+    {
+      "name": "Pe3ep",
+      "contact": {
+        "homepage": "https://pe3epwithyou.cc"
+      }
+    }
+  ],
+  "contact": {
+    "issues": "",
+    "sources": ""
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/macoschatfixes/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "cc.pe3epwithyou.macosChatFixes.MacosChatFixes"
+    ]
+  },
+  "mixins": [
+    "macos-chat-fixes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": ">=${minecraft_version}"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/qVRpEWdGvh"
+      }
+    }
+  }
+}
