@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pe3ep/macos-chat-fixes/refs/heads/main/src/main/resources/assets/macoschatfixes/icon.png" alt="favicon" width="96" style="image-rendering: pixelated">
+<img src="https://raw.githubusercontent.com/pe3ep/macos-chat-fixes/4657324af66c29240ff9386e695acb74f0a8edbe/src/main/resources/assets/macoschatfixes/icon.png" alt="favicon" width="96">
 
 # macOS Chat Fixes
 
